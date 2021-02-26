@@ -1,0 +1,6 @@
+streamlit
+watchdog
+requests
+numpy
+pandas
+datetime
